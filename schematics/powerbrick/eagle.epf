@@ -41,6 +41,9 @@ UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/co
 UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/common/eagle-libs/seeedstudio/OPL.lbr"
 UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/common/eagle-libs/seeedstudio/Power or GND .lbr"
 UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/common/eagle-libs/seeedstudio/template.lbr"
+UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/common/eagle-libs/atmel-xmega.lbr"
+UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/common/eagle-libs/NXPSemiconductors.lbr"
+UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/common/eagle-libs/Skippy-Discrete.lbr"
 
 [Win_1]
 Type="Board Editor"
@@ -90,7 +93,7 @@ Layer=16
 
 [Win_2]
 Type="Control Panel"
-Loc="480 338 1436 733"
+Loc="284 -277 1470 118"
 State=2
 Number=0
 
