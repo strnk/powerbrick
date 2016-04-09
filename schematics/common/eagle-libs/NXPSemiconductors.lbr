@@ -307,32 +307,7 @@ PRTR5V0U2X incorporates two pairs of ultra low capacitance rail-to-rail diodes a
 <connect gate="U$1" pin="IO2" pad="3"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="APPLICATIONS" value="General Purpose"/>
-<attribute name="BIDIRECTIONAL_CHANNELS" value="2"/>
-<attribute name="CAPACITANCE" value="1pF @ 1MHz"/>
-<attribute name="CURRENT_PEAK_PULSE" value="-"/>
-<attribute name="DESCRIPTION" value="TVS DIODE 5.5VWM SOT143B"/>
-<attribute name="DOCUMENTATION_LINK" value="&lt;a href=&quot;http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf&quot;&gt;Datasheet&lt;/a&gt;"/>
-<attribute name="DOCUMENTATION_URL" value="http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf"/>
-<attribute name="MANUFACTURER" value="NXP Semiconductors"/>
-<attribute name="MOUNTING_TYPE" value="Surface Mount"/>
-<attribute name="OPERATING_TEMPERATURE" value="-40C ~ 85C"/>
-<attribute name="PART_NUMBER" value="PRTR5V0U2X,215"/>
-<attribute name="POWER-PEAK_PULSE" value="-"/>
-<attribute name="POWER_LINE_PROTECTION" value="Yes"/>
-<attribute name="SUPPLIER_ITEM_LINK" value="&lt;a href=&quot;http://www.digikey.com/product-detail/en/PRTR5V0U2X,215/568-4140-1-ND/1589981&quot;&gt;Details&lt;/a&gt;"/>
-<attribute name="SUPPLIER_ITEM_NUMBER" value="568-4140-1-ND"/>
-<attribute name="SUPPLIER_ITEM_URL" value="http://www.digikey.com/product-detail/en/PRTR5V0U2X,215/568-4140-1-ND/1589981"/>
-<attribute name="SUPPLIER_LINK" value="&lt;a href=&quot;http://www.digikey.com&quot;&gt;Home Page&lt;/a&gt;"/>
-<attribute name="SUPPLIER_NAME" value="Digi-Key"/>
-<attribute name="SUPPLIER_URL" value="http://www.digikey.com"/>
-<attribute name="TYPE" value="Steering (Rail to Rail)"/>
-<attribute name="UNIDIRECTIONAL_CHANNELS" value="-"/>
-<attribute name="VOLTAGE_BREAKDOWN" value="6V"/>
-<attribute name="VOLTAGE_CLAMPING" value="-"/>
-<attribute name="VOLTAGE_REVERSE" value="5.5V"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 </devices>
