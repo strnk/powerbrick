@@ -47,7 +47,7 @@ UsedLibrary="/Users/huriaux/NO_SAVE/Developpement/Perso/powerbrick/schematics/co
 
 [Win_1]
 Type="Control Panel"
-Loc="203 122 1389 517"
+Loc="203 -178 1389 217"
 State=2
 Number=0
 
